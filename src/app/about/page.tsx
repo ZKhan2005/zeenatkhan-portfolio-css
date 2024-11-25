@@ -19,7 +19,7 @@ export default function About() {
         </div>
         <div className="about-text">
           <p>
-          Welcome! I'm Zeenat Khan, a professional frontend web developer with a passion for crafting visually captivating and highly functional websites. My approach merges creativity with technical precision, ensuring that each project looks exceptional and provides a seamless, user-friendly experience. By focusing on clean, modern design.
+          Welcome! I am Zeenat Khan, a professional frontend web developer with a passion for crafting visually captivating and highly functional websites. My approach merges creativity with technical precision, ensuring that each project looks exceptional and provides a seamless, user-friendly experience. By focusing on clean, modern design.
           </p>
 
           <p>
